@@ -34,6 +34,7 @@
 /* Begin PBXFileReference section */
 		24C6A4382DED490646C5C146 /* Pods-Chocotastic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chocotastic.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Chocotastic/Pods-Chocotastic.debug.xcconfig"; sourceTree = "<group>"; };
 		2A20AB293DCC9F450AC8990D /* Pods_Chocotastic.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Chocotastic.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		890110D923FEFA1600B0E425 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9B4068D21D0E5539009859C5 /* ChocolateNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChocolateNavigationController.swift; sourceTree = "<group>"; };
 		9B4EDDA21D067DD000C26AD9 /* BillingInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BillingInfoViewController.swift; sourceTree = "<group>"; };
 		9B4EDDA61D068A2100C26AD9 /* CardType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardType.swift; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 		9BE3730A1D0511EE0024946D = {
 			isa = PBXGroup;
 			children = (
+				890110D923FEFA1600B0E425 /* README.md */,
 				9BE373151D0511EE0024946D /* Chocotastic */,
 				9BE373141D0511EE0024946D /* Products */,
 				5EC598524386B261206F20E8 /* Pods */,
