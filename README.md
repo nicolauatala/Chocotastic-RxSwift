@@ -30,3 +30,11 @@ When deinit() is called on the object that holds the DisposeBag, each disposable
 Without a DisposeBag, you’d get one of two results. Either the Observer would create a retain cycle, hanging on to what it’s observing indefinitely, or it could be deallocated, causing a crash.
 
 To be a good ARC citizen, remember to add any Observable objects to the DisposeBag when you set them up. The DisposeBag will clean up nicely for you.
+
+## Where to Go From Here
+
+Try adding a couple things to make this application even more reactive:
+
+- Change the CartViewController to use a reactive table view (instead of a label) to display the contents of the cart.
+
+- Allow the user to add or remove chocolates directly from the cart, automatically updating the price.
